@@ -1,6 +1,6 @@
-# myapp
+# Project 01 app layout
 
-A new Flutter project.
+Atividade 2: Criar um programa que crie um Layout responsivo para a criação futuros aplicativos WEB. 
 
 ## Getting Started
 
